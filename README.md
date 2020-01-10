@@ -6,8 +6,8 @@
 
 ## Camc PrimeNG
 
-由于项目使用的 Chrome v49 版本，不支持 html5，其中对 html 的一些特性不支持；
-所以在 Primeng@7.1.3 做了一些扩展；
+由于项目使用的 Chrome v49 版本，存在一些 Bug；
+所以在 Primeng@7.1.3 基础上做了一些对应的修改；
 
 ### Bug List
 
